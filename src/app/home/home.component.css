@@ -1,0 +1,28 @@
+mat-toolbar {
+    background-color: rgb(107, 105, 105);
+}
+mat-icon {
+    width: 25px !important;
+    min-width: unset !important;
+    background: rgba(32, 32, 32, 0.198);
+    border-radius: 0%;
+    height: 3rem;
+    cursor: default;
+    float: right;
+    align-items: center;
+    display: flex;
+    
+}
+.map {
+    width: 100%;
+    height: 30%;
+}
+mat-drawer {
+    width: 15%;
+    background-color: rgba(32, 32, 32, 0.582);
+    height: 30%;
+    
+}
+.drawer-container {
+    height: 90%;
+}
